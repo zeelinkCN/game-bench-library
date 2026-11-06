@@ -1,0 +1,19 @@
+{
+  "authorization": "Repository owner explicitly authorized importing all game resources into this private app.",
+  "repositories": [
+    {
+      "url": "https://github.com/mengfei523060/nesrom",
+      "commit": "8f7abad7996f8ec98c798dee5b69456603a82dd0",
+      "uniqueROMs": 807
+    },
+    {
+      "url": "https://github.com/tomiaa12/nesRoms",
+      "commit": "c02cf3d576f4b1f6c346b9aa80b8b3c9816d3d5f",
+      "uniqueROMs": 392
+    }
+  ],
+  "inputPaths": 1324,
+  "uniqueROMs": 1131,
+  "duplicatesRemoved": 193,
+  "featuredGames": 40
+}
