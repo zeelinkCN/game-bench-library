@@ -1,7 +1,11 @@
 # GameBench Library（游戏市场资源库）
 
-《拾光游戏厅》的独立游戏市场资源仓库。开发期保持 Private；目录和客户端验证完成后，
-仓库所有者可将它切换为 Public，Mac / tvOS 客户端无需更换市场协议。
+《拾光游戏厅》的公开游戏市场资源仓库。Mac / tvOS 客户端通过 HTTPS 读取目录，
+按单款或合集安装资源。
+
+目录元数据、市场清单、文档和仓库组织方式采用 MIT License。`owned/`、`covers/`
+和 `legacy-images/` 中的资源不因本仓库的 MIT License 被重新授权，仍以来源记录
+及其原有权利为准。
 
 ## 目录
 
