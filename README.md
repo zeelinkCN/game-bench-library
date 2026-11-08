@@ -6,6 +6,7 @@
 目录元数据、市场清单、文档和仓库组织方式采用 MIT License。`owned/`、`covers/`
 和 `legacy-images/` 中的资源不因本仓库的 MIT License 被重新授权，仍以来源记录
 及其原有权利为准。
+详细范围见 [LICENSE_SCOPE.md](LICENSE_SCOPE.md)。
 
 ## 目录
 
